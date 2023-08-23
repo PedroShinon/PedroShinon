@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @João Pedro Silva Costa
-- 👀 I’m interested in security and web-site develop.
-- 🌱 I’m currently learning HTML, CSS, JS, VUE.JS, LARAVEL, PHP.
+- 👀 I’m interested in security and backend develop.
+- 🌱 I’m currently learning HTML, CSS, JS, VUE.JS, LARAVEL, PHP, TYPESCRIPT, NODE.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me ...
 
